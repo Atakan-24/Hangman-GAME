@@ -11,7 +11,7 @@ Dies ist eine Python-Implementierung des klassischen Hangman-Spiels. Der Benutze
 5. Wenn der Benutzer das Wort korrekt errät, gewinnt er das Spiel. Andernfalls verliert er.
 
 
-## Foto
+## Wie es aussieht
 ![image](https://github.com/Atakan-24/Hangman-GAME/assets/93819298/99c0b4fa-5881-456a-9655-dd2763ba38aa)
 
 
